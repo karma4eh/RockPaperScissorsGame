@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+  background-image: url('https://img.freepik.com/foto-gratis/fondo-geometrico-oscuro-espacio-copia_24972-1816.jpg?w=740&t=st=1699389587~exp=1699390187~hmac=ce1883a5e629821d587288f511b5b1ba04dd238ae380c205edae1012dfacf9e1');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  }
+  
+  h1 {
+    color: #fff;
+}
+  #game-container {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  #options button {
+    background-color: #3498db;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  #options button:hover {
+    background-color: #2980b9;
+  }
+  
+  #result {
+    margin-top: 20px;
+  }
+  
+  #result p {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  #score p {
+    font-size: 18px;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  #reset {
+    background-color: #e74c3c;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 20px;
+  }
+  
+  #reset:hover {
+    background-color: #c0392b;
+  }
+  
